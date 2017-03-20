@@ -1,4 +1,4 @@
-# MetadataHandler API
+# MetadataHandler Interface
 
 ## Methods
 #### `Promise store(hash, metadata)`
