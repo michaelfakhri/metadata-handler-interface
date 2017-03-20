@@ -1,4 +1,4 @@
-# FileMetadataHandler API
+# MetadataHandler API
 
 ## Methods
 #### `Promise store(hash, metadata)`
