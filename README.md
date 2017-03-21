@@ -1,5 +1,6 @@
 # MetadataHandler Interface
-
+## Description
+An interface for a metadata handler that is capable of storing, retrieving, deleting and querying metadata belonging to a certain hash.
 ## Methods
 #### `Promise store(hash, metadata)`
 > returns a promise that resolves once the metadata is stored.
